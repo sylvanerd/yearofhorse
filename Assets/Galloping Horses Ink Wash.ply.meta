@@ -1,0 +1,26 @@
+- !<AssetImportMetadata/61436964-83a5-4865-9d04-ef202557f80e>
+  ImportedAssetIds:
+    Galloping Horses Ink Wash: !<reference> 3b33bea7-58b2-429c-a7d4-baec5974cd9a
+  ImporterName: GaussianSplattingAssetImporter
+  PrimaryAsset: !<reference> 3b33bea7-58b2-429c-a7d4-baec5974cd9a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    Galloping Horses Ink Wash: !<own> 0249e539-30b6-456f-a18b-a575d3ed1f10
+  DependentFiles:
+    []
+  ImporterSettings: !<GaussianSplattingImporterSettings>
+    CompressionMode: Draco
+    BitsCenter: 10
+    BitsScale: 8
+    BitsRotation: 12
+    BitsColor: 8
+    MinimumOpacity: 0.000000
+    MortonOrder: true
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<GaussianSplattingAssetData/0249e539-30b6-456f-a18b-a575d3ed1f10>
+  Recenter: false
+  FlipXY: true
+  Scale: 1.000000

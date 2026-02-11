@@ -1,11 +1,14 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 569
+    size: 572
     values:
       - Base.png
+      - Echopark.hdr
+      - Galloping Horses Ink Wash.ply
       - MaterialParams.png
       - Normal.png
+      - PBR 2.mat
       - PBR.mat
       - SpectaclesInteractionKit.lspkg
       - SpectaclesInteractionKit.lspkg/Assets
