@@ -1,0 +1,36 @@
+- !<AssetImportMetadata/8a09ae7c-27dc-099a-2c10-71f78b783b28>
+  ImportedAssetIds:
+    AnimatedTexture: !<reference> daba2610-6f1b-4eb5-b800-bff8fa557319
+    atlas_0.png: !<reference> 1d5b2792-9e2d-4519-a778-518c27aa21f5
+    5a579f11-34f7-4e26-94b6-0d08ebef4aa8: !<reference> 041a83eb-c494-40c0-8b8e-ae29a10e9c14
+    923415f5-4245-4675-ade1-6d69d6d23e71: !<reference> cce9ef1f-2358-483f-98ee-26ce84c65e7a
+    996c6f4e-b2ad-4117-9e3e-3db82e6e97f5: !<reference> 6bc0b8ff-a63e-4faf-9644-5298855d2a89
+    c79c8ac8-3c8c-442b-826b-8e33df580148: !<reference> 16f6e243-ceff-49e8-bfc7-d91edd21e3f6
+    d15a9c4d-fa40-49b5-b806-ac0d4e2f6096: !<reference> 8daf8089-5823-4196-9666-c8362a2474dd
+    e55b5142-e89b-416c-9290-5cd49af03718: !<reference> 563a8d19-d38d-4f4a-8b0c-c8f98838dd58
+  ImporterName: LensAnimationImporter
+  PrimaryAsset: !<reference> daba2610-6f1b-4eb5-b800-bff8fa557319
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: CannotBeUnpackedTransparent
+  ExtraData:
+    AssetLibraryId: 3Eb71cgZLnE6N2J1CUXgmJ
+  AssetDataMap:
+    AnimatedTexture: !<own> c0e4d86f-e73a-4922-a0bf-a528b8b5c86b
+  DependentFiles:
+    - atlas_0.png
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AnimatedTextureData/c0e4d86f-e73a-4922-a0bf-a528b8b5c86b>
+  AutoPlay: true
+  Reversed: false
+  PingPong: false
+  CurrentSequence: default
+  KeyFramesData:
+    default:
+      - time: 0.000000
+        value: 0
+      - time: 6.000000
+        value: 120

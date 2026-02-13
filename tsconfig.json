@@ -12,6 +12,10 @@
         "./Assets/*",
         "./Packages/*",
         "./Cache/TypeScript/Src/Packages/*"
+      ],
+      "Portal 2.lspkg/*": [
+        "./Assets/Portal 2.lspkg/*",
+        "./Cache/TypeScript/Src/Assets/Portal 2.lspkg/*"
       ]
     },
     "skipDefaultLibCheck": true,
@@ -25,6 +29,7 @@
     "./Cache/TypeScript/lib/LensifyTS/Declarations/**/*.d.ts",
     "./Assets/**/*.ts",
     "./Packages/**/*.ts",
-    "./Cache/TypeScript/Src/Packages/**/*.ts"
+    "./Cache/TypeScript/Src/Packages/**/*.ts",
+    "./Cache/TypeScript/Src/Assets/Portal 2.lspkg/**/*.ts"
   ]
 }

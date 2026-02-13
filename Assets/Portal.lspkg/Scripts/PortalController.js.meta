@@ -1,0 +1,68 @@
+- !<AssetImportMetadata/fffc1a5a-4240-b802-0a38-8f00b04b7356>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> a0a7f865-de5f-4a97-b892-e9dbf3511ab8
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> a0a7f865-de5f-4a97-b892-e9dbf3511ab8
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: 3Eb71cgZLnE6N2J1CUXgmJ
+  AssetDataMap:
+    JavaScriptAsset: !<own> 20f92c30-816a-4c45-a2ba-5d786ae6c430
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/20f92c30-816a-4c45-a2ba-5d786ae6c430>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 18c6cdee-a547-49b1-0a25-eea137cdfba3
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    Advanced: false
+    allowManipulate: false
+    camera: false
+    groundGrid: false
+    gyroFallbackPositionSurface: false
+    manipulateComponent: false
+    occluderMaterial: false
+    portalCornerMax: false
+    portalCornerMin: false
+    portalObject: false
+    portalOccluderMesh: false
+    touchMaterial: false
+    trackingTarget: false
+    useGyroFallback: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - camera: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      portalObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      portalOccluderMesh: !<reference.MaterialMeshVisual> 00000000-0000-0000-0000-000000000000
+      useGyroFallback: false
+      gyroFallbackPositionSurface: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      Advanced: false
+      portalCornerMin: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      portalCornerMax: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      manipulateComponent: !<reference.ManipulateComponent> 00000000-0000-0000-0000-000000000000
+      groundGrid: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      trackingTarget: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      allowManipulate: true
+      touchMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      occluderMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
