@@ -1,209 +1,198 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 751
+    size: 865
     values:
+      - ""
       - Base.png
       - Device Camera Texture.deviceCameraTexture
       - Echopark.hdr
       - Echopark.hdr/Diffuse
       - Echopark.hdr/Specular
+      - GLB
+      - GLB/chinese_palace_lanternA.glb/.hidden
+      - GLB/chinese_palace_lanternA.glb/.hidden/05___Default
+      - GLB/chinese_palace_lanternA.glb/Materials
+      - GLB/chinese_palace_lanternA.glb/Materials/05___Default
+      - GLB/chinese_palace_lanternA.glb/Materials/Bronze Cube Sandstone_material
+      - GLB/chinese_palace_lanternA.glb/Materials/Heavily Sandblasted Bronze _material
+      - GLB/chinese_palace_lanternA.glb/Materials/Maple Wood_material
+      - GLB/chinese_palace_lanternA.glb/Materials/Mate Fabric Ripstop_material
+      - GLB/chinese_palace_lanternA.glb/Materials/Material__1
+      - GLB/chinese_palace_lanternA.glb/Materials/Material__109
+      - GLB/chinese_palace_lanternA.glb/Materials/Material__113
+      - GLB/chinese_palace_lanternA.glb/Materials/Material__114
+      - GLB/chinese_palace_lanternA.glb/Materials/Material__116
+      - GLB/chinese_palace_lanternA.glb/Materials/Material__117
+      - GLB/chinese_palace_lanternA.glb/Materials/Material__2
+      - GLB/chinese_palace_lanternA.glb/Materials/Metal_Dark_Gold
+      - GLB/chinese_palace_lanternA.glb/Materials/Red Paint Brushed_material
+      - GLB/chinese_palace_lanternA.glb/Materials/Red Paint Brushed_material2
+      - GLB/chinese_palace_lanternA.glb/Materials/Red Paint Brushed_material3
+      - GLB/chinese_palace_lanternA.glb/Materials/Red Paint Brushed_material4
+      - GLB/chinese_palace_lanternA.glb/Materials/Stretch Nylon Webbing_material
+      - GLB/chinese_palace_lanternA.glb/Materials/___
+      - GLB/chinese_palace_lanternA.glb/Materials/awdefault
+      - GLB/chinese_palace_lanternA.glb/Materials/wire_000000000
+      - GLB/chinese_palace_lanternA.glb/Materials/wire_176026026
+      - GLB/chinese_palace_lanternA.glb/Meshes
+      - GLB/chinese_palace_lanternA.glb/Meshes/body_frameA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/body_frameB_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/bottom_barA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d1
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d2
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d3
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d4
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d5
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d6
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d7
+      - GLB/chinese_palace_lanternA.glb/Meshes/brushA_n3d8
+      - GLB/chinese_palace_lanternA.glb/Meshes/cover_outside_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/dragon_headA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/frame_beamA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/holderA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/knotA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/spring_symbol_frameA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailA_n3d1
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailA_n3d2
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailB_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailB_n3d1
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailB_n3d2
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailC_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailC_n3d1
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailC_n3d2
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailD_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailD_n3d1
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailD_n3d2
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailE_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailE_n3d1
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailE_n3d2
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailF_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailF_n3d1
+      - GLB/chinese_palace_lanternA.glb/Meshes/tailF_n3d2
+      - GLB/chinese_palace_lanternA.glb/Meshes/top_barA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/top_coverA_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/top_coverB_n3d
+      - GLB/chinese_palace_lanternA.glb/Meshes/top_outer_frames_n3d
+      - GLB/chinese_palace_lanternA.glb/Textures
+      - GLB/chinese_palace_lanternA.glb/Textures/ambient_occlusion_image_texture_roughness_image_texture
+      - GLB/chinese_palace_lanternA.glb/Textures/ambient_occlusion_image_texture_roughness_image_texture_0
+      - GLB/chinese_palace_lanternA.glb/Textures/ambient_occlusion_image_texture_roughness_image_texture_1
+      - GLB/chinese_palace_lanternA.glb/Textures/ambient_occlusion_image_texture_roughness_image_texture_2
+      - GLB/chinese_palace_lanternA.glb/Textures/ambient_occlusion_image_texture_roughness_image_texture_3
+      - GLB/chinese_palace_lanternA.glb/Textures/ambient_occlusion_image_texture_sampler
+      - GLB/chinese_palace_lanternA.glb/Textures/ambient_occlusion_image_texture_sampler_0
+      - GLB/chinese_palace_lanternA.glb/Textures/base_color_image_texture
+      - GLB/chinese_palace_lanternA.glb/Textures/base_color_image_texture_0
+      - GLB/chinese_palace_lanternA.glb/Textures/base_color_image_texture_1
+      - GLB/chinese_palace_lanternA.glb/Textures/base_color_image_texture_2
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_0
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_1
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_2
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_3
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_4
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_5
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_6
+      - GLB/chinese_palace_lanternA.glb/Textures/normal_image_texture_7
+      - GLB/chinese_palace_lanternA.glb/Textures/roughness_image_texture
+      - GLB/chinese_palace_lanternA.glb/Textures/sampler_opacity_image_texture
+      - GLB/chinese_palace_lanternA.glb/Textures/sampler_opacity_image_texture_0
+      - GLB/chinese_palace_lanternA.glb/Textures/sampler_sampler
+      - GLB/chinese_palace_lanternA.glb/Textures/sampler_sampler_0
+      - GLB/chinese_palace_lanternA.glb/chinese_palace_lanternA
       - Galloping Horses Ink Wash.ply
+      - Gaussian Splatting Material.mat
+      - Gaussian Splatting.ss_graph
       - MaterialParams.png
-      - Materials
-      - Materials/PBR 2.mat
-      - Materials/PBR 3.mat
       - Materials/PBR.mat
       - Materials/TESTTTT.mat
+      - Materials/pbr 2.ss_graph
       - Materials/pbr.ss_graph
+      - Materials/trans.mat
       - Materials/unlit.ss_graph
       - Normal.png
-      - Portal 2.lspkg
-      - Portal 2.lspkg/Animations
-      - Portal 2.lspkg/Animations/City.animationAsset
-      - Portal 2.lspkg/Animations/Portal.animationAsset
-      - Portal 2.lspkg/Materials
-      - Portal 2.lspkg/Materials/ground_grid.mat
-      - Portal 2.lspkg/Materials/portal_bounds.mat
-      - Portal 2.lspkg/Materials/portal_corner_max.mat
-      - Portal 2.lspkg/Materials/portal_corner_min.mat
-      - "Portal 2.lspkg/Materials/portal_occluder [DO_NOT_EDIT].mat"
-      - "Portal 2.lspkg/Materials/touch_collision [DO_NOT_EDIT].mat"
-      - Portal 2.lspkg/Models
-      - Portal 2.lspkg/Models/ground_grid_mesh.mesh
-      - Portal 2.lspkg/Models/portal_corner_sphere.mesh
-      - Portal 2.lspkg/Models/touch_collision_cube.mesh
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/BoatHolder.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/BuoyHolder.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Door_Left.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Door_Right.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Eye_Left.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Eye_Right.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Handle1.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Handle2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Handle3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/Hands.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/SeaHolder.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/TeethBottom.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Animations/TeethTop.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/City.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/Doors.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/Eyes.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/Handles.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/Robot.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/RobotHands.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/Sky.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/Teeth.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Materials/Water.mat"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Boat.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Body.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Buoy.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/City_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Door_Left.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Door_Right.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Eye_Left.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Eye_Right.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Ground.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Handle1.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Handle2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Handle3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Hands.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Occluder.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Sea.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/Sky.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/TeethBottom.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Meshes/TeethTop.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Clouds.jpg"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/ColorPalletes.jpg"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robot_Hands_base.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robot_Hands_materialParams.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robot_Hands_normal.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robot_RobotMain_base.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robot_RobotMain_materialParams.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robot_RobotMain_normal.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robots8_Handles_base.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robots8_Teeth_base.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Robots8_Teeth_normal.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Street4_Mat_materialParams.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Water"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Water/Water_base.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Water/Water_materialParams.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Water/Water_normal"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Water/Water_normal/Water_normal.t3d"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Water/Water_normal/Water_normal.t3d/Water_normal"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City/Textures/Water/Water_normal/Water_normal.t3d/atlas_0.png"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Body.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Body_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Body_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Body_4.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Body_5.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Car.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/CrossWalk.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Eye_Left.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Eye_Left_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Eye_Left_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Eye_Right.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Eye_Right_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Eye_Right_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Head.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Head_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Head_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Head_4.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Knee_L_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Knee_L_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Knee_R_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Knee_R_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Leg_L_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Leg_L_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Leg_R_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Leg_R_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Shoe_L_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Shoe_L_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Shoe_R_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Shoe_R_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/SkateHolder.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Tigh_L_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Tigh_L_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Tigh_R_2.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Tigh_R_3.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Animations/Walking.animationLayer"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Body.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Body_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Body_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Body_4.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Body_5.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Button1.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Button1_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Button2_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Button2_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Button3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Button3_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Car.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Eye_Right_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Head.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Head_1.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Head_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Head_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Head_4.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Knee_L.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Knee_L_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Knee_L_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Knee_R.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Knee_R_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Knee_R_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Leg_L.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Leg_L_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Leg_R.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Leg_R_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Leg_R_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Screen.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Screen_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Screen_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Shoe_L.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Shoe_L_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Shoe_L_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Shoe_R.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Shoe_R_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Shoe_R_3.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Skate.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Tigh_L.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Tigh_L_2.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Tigh_R.mesh"
-      - "Portal 2.lspkg/Portal Assets [REMOVE_ME]/City_Robots/Meshes/Tires.mesh"
-      - Portal 2.lspkg/Portal__PLACE_IN_SCENE.prefab
-      - Portal 2.lspkg/Scripts
-      - Portal 2.lspkg/Scripts/GroundGrid.js
-      - Portal 2.lspkg/Scripts/PortalController.js
-      - Portal 2.lspkg/Shaders
-      - Portal 2.lspkg/Shaders/City.ss_graph
-      - Portal 2.lspkg/Shaders/Eyes.ss_graph
-      - Portal 2.lspkg/Shaders/Sky.ss_graph
-      - Portal 2.lspkg/Shaders/ground_grid.ss_graph
-      - Portal 2.lspkg/Textures
-      - Portal 2.lspkg/Textures/Base.png
-      - Portal 2.lspkg/Textures/Eyes.png
-      - Portal 2.lspkg/Textures/MaterialParams.png
-      - Portal 2.lspkg/Textures/Normal.png
-      - Portal 2.lspkg/Textures/ground_grid.png
-      - Portal 2.lspkg/package.native
-      - Portal.lspkg
-      - Portal.lspkg/package.native
       - Render Target.renderTarget
       - Scene.scene
+      - Scripts/StencilMask.ts
+      - Spectacles3DHandHints.lspkg
+      - Spectacles3DHandHints.lspkg/Animation
+      - Spectacles3DHandHints.lspkg/Animation/BaseLayer.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Finger_Scroll_Micro.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Finger_Swipe_X.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Finger_Swipe_Y.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Finger_Tap_Near.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Finger_Tap_Surface.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Palm_Grab_X.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Palm_Grab_Y.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Palm_Swipe_X.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Palm_Touch_Near.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Palm_Touch_Surface.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Far.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Move_X.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Move_Y.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Move_Z.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Near.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Rotate_X.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Rotate_Y.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Rotate_Z.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Swipe_X.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Pinch_Swipe_Y.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/System_Tap_Exit.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/System_Tap_Rotate_Down.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/System_Tap_Rotate_Up.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/System_Tap_Save.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/System_Tap_Settings.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/System_Tap_Watch.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Two_Hands_Palm_Grab_X.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Two_Hands_Palm_Grab_Y.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Two_Hands_Pinch_Rotate_Y.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Two_Hands_Pinch_Rotate_Z.animationAsset
+      - Spectacles3DHandHints.lspkg/Animation/Two_Hands_Pinch_Scale.animationAsset
+      - Spectacles3DHandHints.lspkg/LSTween
+      - Spectacles3DHandHints.lspkg/LSTween/LSTween.ts
+      - Spectacles3DHandHints.lspkg/LSTween/RotationInterpolationType.ts
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS/Easing.ts
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS/Group.ts
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS/Interpolation.ts
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS/Now.ts
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS/Sequence.ts
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS/Tween.ts
+      - Spectacles3DHandHints.lspkg/LSTween/TweenJS/mainGroup.ts
+      - Spectacles3DHandHints.lspkg/Materials
+      - Spectacles3DHandHints.lspkg/Materials/Graphs
+      - Spectacles3DHandHints.lspkg/Materials/Graphs/HandHints_Cursor.ss_graph
+      - Spectacles3DHandHints.lspkg/Materials/Graphs/HandHints_Inreraction_Glow.ss_graph
+      - Spectacles3DHandHints.lspkg/Materials/Graphs/HandHints_Outline.ss_graph
+      - Spectacles3DHandHints.lspkg/Materials/Graphs/HandHints_Outline_Glow_Combined.ss_graph
+      - Spectacles3DHandHints.lspkg/Materials/Graphs/Occluder.ss_graph
+      - Spectacles3DHandHints.lspkg/Materials/HandHints_Cursor.mat
+      - Spectacles3DHandHints.lspkg/Materials/HandHints_Interaction_Glow.mat
+      - Spectacles3DHandHints.lspkg/Materials/HandHints_Outline.mat
+      - Spectacles3DHandHints.lspkg/Materials/Occluder.mat
+      - Spectacles3DHandHints.lspkg/Meshes
+      - Spectacles3DHandHints.lspkg/Meshes/CursorPlaneGeo.mesh
+      - Spectacles3DHandHints.lspkg/Meshes/LeftHandGeo.mesh
+      - Spectacles3DHandHints.lspkg/Meshes/RightHandGeo.mesh
+      - Spectacles3DHandHints.lspkg/README.md
+      - Spectacles3DHandHints.lspkg/Scripts
+      - Spectacles3DHandHints.lspkg/Scripts/ExampleJS.js
+      - Spectacles3DHandHints.lspkg/Scripts/ExampleTS.ts
+      - Spectacles3DHandHints.lspkg/Scripts/InteractionHintController.ts
+      - Spectacles3DHandHints.lspkg/Spectacles3DHandHints__PLACE_IN_SCENE.prefab
+      - Spectacles3DHandHints.lspkg/Textures
+      - Spectacles3DHandHints.lspkg/Textures/Hands_Interaction_Glow_Mask.png
+      - Spectacles3DHandHints.lspkg/Textures/Hands_Opacity_Gradient.png
+      - Spectacles3DHandHints.lspkg/package.native
       - SpectaclesInteractionKit.lspkg
       - SpectaclesInteractionKit.lspkg/Assets/Audio
       - SpectaclesInteractionKit.lspkg/Assets/Audio/HoverAudioTrack.wav
       - SpectaclesInteractionKit.lspkg/Assets/Audio/TriggerEndAudioTrack.wav
       - SpectaclesInteractionKit.lspkg/Assets/Audio/TriggerStartAudioTrack.wav
+      - SpectaclesInteractionKit.lspkg/Assets/Materials/BaseHandVisualsMaterials
       - SpectaclesInteractionKit.lspkg/Assets/Materials/BaseHandVisualsMaterials/HandOccluderLeft.mat
       - SpectaclesInteractionKit.lspkg/Assets/Materials/BaseHandVisualsMaterials/HandOccluderRight.mat
       - SpectaclesInteractionKit.lspkg/Assets/Materials/BaseHandVisualsMaterials/NoDraw.mat
@@ -611,6 +600,21 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/package.native
       - SpectaclesInteractionKit.lspkg/tsconfig.json
       - SpectaclesInteractionKitExamples.lspkg
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/Bases.fbx
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/Parts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Prefabs/ScrollViewListItems
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/SFX
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Scripts
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Shaders
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Textures
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/VFX
+      - SpectaclesInteractionKitExamples.lspkg/Examples/UIStarter
       - SpectaclesInteractionKitExamples.lspkg/package.native
       - SpectaclesUIKit.lspkg
       - SpectaclesUIKit.lspkg/Audio
@@ -754,4 +758,114 @@ CollapsedEntities:
       - SpectaclesUIKit.lspkg/Textures/test-image.jpg
       - SpectaclesUIKit.lspkg/package.native
       - SpectaclesUIKit.lspkg/package_dependencies.json
+      - SurfacePlacement.lspkg
+      - SurfacePlacement.lspkg/Decorators
+      - SurfacePlacement.lspkg/Decorators/Singleton.ts
+      - "SurfacePlacement.lspkg/Example Surface [DRAG ME TO SCENE].prefab"
+      - SurfacePlacement.lspkg/Example.ts
+      - SurfacePlacement.lspkg/Materials
+      - SurfacePlacement.lspkg/Materials/Arrow.mat
+      - SurfacePlacement.lspkg/Materials/CircleGrid.mat
+      - SurfacePlacement.lspkg/Materials/CircleGridHands.mat
+      - SurfacePlacement.lspkg/Materials/Dots.mat
+      - SurfacePlacement.lspkg/Materials/HandHints_Outline_Glow_Combined.mat
+      - SurfacePlacement.lspkg/Materials/Mobile_Controller.mat
+      - SurfacePlacement.lspkg/Materials/Occluder.mat
+      - SurfacePlacement.lspkg/Materials/SliderArrow.mat
+      - SurfacePlacement.lspkg/Materials/SurfaceGridMove.mat
+      - SurfacePlacement.lspkg/Materials/red_panda_pbr.mat
+      - SurfacePlacement.lspkg/Meshes
+      - SurfacePlacement.lspkg/Meshes/Animations
+      - SurfacePlacement.lspkg/Meshes/Animations/BaseLayer.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Controller_Tap.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Finger_Scroll_Micro.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Finger_Swipe_X.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Finger_Swipe_Y.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Finger_Tap_Near.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Finger_Tap_Surface.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Palm_Grab_X.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Palm_Grab_Y.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Palm_Swipe_X.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Palm_Touch_Near.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Palm_Touch_Surface.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Far.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Move_X.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Move_Y.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Move_Z.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Near.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Rotate_X.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Rotate_Y.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Rotate_Z.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Swipe_X.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Pinch_Swipe_Y.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/System_Tap_Exit.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/System_Tap_Rotate_Down.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/System_Tap_Rotate_Up.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/System_Tap_Save.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/System_Tap_Settings.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/System_Tap_Watch.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Two_Hands_Palm_Grab_X.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Two_Hands_Palm_Grab_Y.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Two_Hands_Pinch_Rotate_Y.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Two_Hands_Pinch_Rotate_Z.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Animations/Two_Hands_Pinch_Scale.animationAsset
+      - SurfacePlacement.lspkg/Meshes/Device_Mockup.mesh
+      - SurfacePlacement.lspkg/Meshes/LeftHandGeo.mesh
+      - SurfacePlacement.lspkg/Meshes/Placement.mesh
+      - SurfacePlacement.lspkg/Meshes/RedPanda
+      - SurfacePlacement.lspkg/Meshes/RedPanda/BaseLayer.animationAsset
+      - SurfacePlacement.lspkg/Meshes/RedPanda/Meshes
+      - SurfacePlacement.lspkg/Meshes/RedPanda/Meshes/innertube_lo.mesh
+      - SurfacePlacement.lspkg/Meshes/RedPanda/Meshes/red_panda_lo.mesh
+      - SurfacePlacement.lspkg/Meshes/RightHandGeo.mesh
+      - SurfacePlacement.lspkg/Meshes/Unit Plane.mesh
+      - SurfacePlacement.lspkg/Prefabs
+      - SurfacePlacement.lspkg/Prefabs/HandHints.prefab
+      - SurfacePlacement.lspkg/Prefabs/HorizontalPlacement.prefab
+      - SurfacePlacement.lspkg/Prefabs/SurfaceSlider.prefab
+      - SurfacePlacement.lspkg/Prefabs/TableTopPlacement.prefab
+      - SurfacePlacement.lspkg/Prefabs/VerticalPlacement.prefab
+      - SurfacePlacement.lspkg/README.md
+      - SurfacePlacement.lspkg/Scripts
+      - SurfacePlacement.lspkg/Scripts/CircleAnimation.ts
+      - SurfacePlacement.lspkg/Scripts/DotsLine.ts
+      - SurfacePlacement.lspkg/Scripts/ForceHover.ts
+      - SurfacePlacement.lspkg/Scripts/HandHintsController.ts
+      - SurfacePlacement.lspkg/Scripts/Horizontal.ts
+      - SurfacePlacement.lspkg/Scripts/PlacementSettings.ts
+      - SurfacePlacement.lspkg/Scripts/SingleSurface.ts
+      - SurfacePlacement.lspkg/Scripts/SurfaceDetector.ts
+      - SurfacePlacement.lspkg/Scripts/SurfacePlacementController.ts
+      - SurfacePlacement.lspkg/Scripts/SurfaceSlider.ts
+      - SurfacePlacement.lspkg/Scripts/TableTop.ts
+      - SurfacePlacement.lspkg/Scripts/Vertical.ts
+      - SurfacePlacement.lspkg/Shaders
+      - SurfacePlacement.lspkg/Shaders/CircleGrid.ss_graph
+      - SurfacePlacement.lspkg/Shaders/CircleGridHands.ss_graph
+      - SurfacePlacement.lspkg/Shaders/Dots.ss_graph
+      - SurfacePlacement.lspkg/Shaders/HandHints_Outline_Glow_Combined.ss_graph
+      - SurfacePlacement.lspkg/Shaders/Mobile_Controller_Graph.ss_graph
+      - SurfacePlacement.lspkg/Shaders/Occluder.ss_graph
+      - SurfacePlacement.lspkg/Shaders/SurfaceGrid.ss_graph
+      - SurfacePlacement.lspkg/Shaders/cutoutColorAlpha.ss_graph
+      - SurfacePlacement.lspkg/Shaders/red_panda_pbr.ss_graph
+      - SurfacePlacement.lspkg/Shaders/unlit.ss_graph
+      - SurfacePlacement.lspkg/Sounds
+      - SurfacePlacement.lspkg/Sounds/CalibrateSnap.mp3
+      - SurfacePlacement.lspkg/Textures
+      - SurfacePlacement.lspkg/Textures/Hands_Interaction_Glow_Mask.png
+      - SurfacePlacement.lspkg/Textures/Hands_Opacity_Gradient.png
+      - SurfacePlacement.lspkg/Textures/Mobile_Controller_App_Screen.png
+      - SurfacePlacement.lspkg/Textures/Mobile_Controller_App_Tap.png
+      - SurfacePlacement.lspkg/Textures/arrow.png
+      - SurfacePlacement.lspkg/Textures/arrow_transform.png
+      - SurfacePlacement.lspkg/Textures/arrows.png
+      - SurfacePlacement.lspkg/Textures/mc_arrow_dot.png
+      - SurfacePlacement.lspkg/Textures/mc_dot.png
+      - SurfacePlacement.lspkg/Textures/red_panda_base.png
+      - SurfacePlacement.lspkg/Textures/red_panda_normal.png
+      - SurfacePlacement.lspkg/Textures/red_panda_param.png
+      - SurfacePlacement.lspkg/package.native
+      - SurfacePlacement.lspkg/package_dependencies.json
+      - Untitled TypeScript.ts
   options: 4

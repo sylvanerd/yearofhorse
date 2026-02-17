@@ -1,0 +1,62 @@
+- !<AssetImportMetadata/e079ca89-a9b6-4787-880d-02d1cfb2564b>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 0ec616d5-4a2a-4697-af74-06a5728e9fa7
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 0ec616d5-4a2a-4697-af74-06a5728e9fa7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> ab1ec066-dfb9-4d9d-bd0f-5716a52f38c1
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/ab1ec066-dfb9-4d9d-bd0f-5716a52f38c1>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: fc68c377-a311-4be4-b8a1-3d9e67dada40
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    debugShowMask: false
+    gaussianRenderOrder: false
+    gaussianSplatVisual: false
+    maskColor: false
+    maskRenderOrder: false
+    maskVisual: false
+    stencilRef: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - maskVisual: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      gaussianSplatVisual: !<reference.GaussianSplattingVisual> 00000000-0000-0000-0000-000000000000
+      stencilRef: !<float> 1.000000
+      debugShowMask: false
+      maskColor: !<Vec4> {x: 1.000000, y: 0.000000, z: 0.000000, w: 0.500000}
+      maskRenderOrder: !<float> 0.000000
+      gaussianRenderOrder: !<float> 100.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.RenderMeshVisual maskVisual {"hint":"The mesh visual that acts as the mask (e.g., quad with transparent material)"}'
+    - '// @input Component.GaussianSplattingVisual gaussianSplatVisual {"hint":"The Gaussian Splat visual that should only show through the mask"}'
+    - '// @input float stencilRef = 1 {"hint":"Stencil reference value (default 1)"}'
+    - '// @input bool debugShowMask {"hint":"Enable to see the mask for debugging (disable for final effect)"}'
+    - '// @input vec4 maskColor = {1,0,0,0.5} {"hint":"Mask color when debug mode is on (RGB)", "widget":"color"}'
+    - '// @input float maskRenderOrder {"hint":"Render order for mask (must be LOWER than Gaussian Splat)"}'
+    - '// @input float gaussianRenderOrder = 100 {"hint":"Render order for Gaussian Splat (must be HIGHER than mask)"}'

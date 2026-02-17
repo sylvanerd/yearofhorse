@@ -1,9 +1,15 @@
 data:
   externalSources:
+    - 0af42b8f-0a3a-4f38-8694-4527160088c1: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/PBRMaterial/Resources/pbr.ss_graph
+    - 27453bbd-3c74-43d0-b91d-88930e308b14: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/GaussianSplattingMaterial/Resources/Gaussian Splatting.ss_graph
+    - 2dbef383-fc0e-4b03-a951-e5e7b0f405a6: /Applications/Lens Studio.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
     - 325e96f2-7d5e-455e-9bc0-cd062f5f5475: "C:/Program Files/Snap Inc/Lens Studio/JsPlugins/PresetsRegistry/Assets/Resources/Base.png"
     - 4859683d-8bb0-42a5-a432-b4ad978a5848: "C:/Program Files/Snap Inc/Lens Studio/JsPlugins/PresetsRegistry/Assets/Resources/MaterialParams.png"
     - 61436964-83a5-4865-9d04-ef202557f80e: "C:/Users/spj16/Downloads/Galloping Horses Ink Wash.ply"
     - 63467495-05e8-4d36-8ceb-8b47cc762624: "C:/Program Files/Snap Inc/Lens Studio/JsPlugins/PresetsRegistry/Assets/PBRMaterial/Resources/pbr.ss_graph"
     - 6494a838-f513-4ae3-adeb-5e0999472cf8: "C:/Users/spj16/AppData/Local/Snap/Lens Studio/LibraryComponents/SpectaclesInteractionKitExamples@0.16.4/SpectaclesInteractionKitExamples.lspkg"
+    - 71faec7e-ef2f-4513-86fe-a5ec4d11c57e: /Users/sylvanutella/Downloads/GLB/chinese_palace_lanternA.glb
+    - 87062905-f1e1-4a4d-be02-74fbb498401f: /Users/sylvanutella/Library/Preferences/Snap/Lens Studio/LibraryComponents/SurfacePlacement@0.5.0/SurfacePlacement.lspkg
     - dda7a6e2-8c1b-401a-b17e-0792828040bc: "C:/Program Files/Snap Inc/Lens Studio/JsPlugins/PresetsRegistry/Assets/Resources/Normal.png"
     - e5ea5cf9-54a0-413c-b2d7-5f9047f139d0: "C:/Program Files/Snap Inc/Lens Studio/JsPlugins/PresetsRegistry/Assets/UnlitMaterial/Resources/unlit.ss_graph"
+    - e69e2365-606d-44b7-a715-c12ce2915d54: /Users/sylvanutella/Library/Preferences/Snap/Lens Studio/LibraryComponents/Spectacles3DHandHints@1.2.0/Spectacles3DHandHints.lspkg
