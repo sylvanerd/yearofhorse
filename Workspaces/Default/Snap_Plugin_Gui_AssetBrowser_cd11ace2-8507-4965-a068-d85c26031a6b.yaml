@@ -1,16 +1,13 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 865
+    size: 864
     values:
-      - ""
       - Base.png
       - Device Camera Texture.deviceCameraTexture
       - Echopark.hdr
       - Echopark.hdr/Diffuse
       - Echopark.hdr/Specular
-      - GLB
-      - GLB/chinese_palace_lanternA.glb/.hidden
       - GLB/chinese_palace_lanternA.glb/.hidden/05___Default
       - GLB/chinese_palace_lanternA.glb/Materials
       - GLB/chinese_palace_lanternA.glb/Materials/05___Default
@@ -104,9 +101,9 @@ CollapsedEntities:
       - GLB/chinese_palace_lanternA.glb/Textures/sampler_sampler_0
       - GLB/chinese_palace_lanternA.glb/chinese_palace_lanternA
       - Galloping Horses Ink Wash.ply
-      - Gaussian Splatting Material.mat
-      - Gaussian Splatting.ss_graph
       - MaterialParams.png
+      - Materials/Gaussian Splatting Material.mat
+      - Materials/Gaussian Splatting.ss_graph
       - Materials/PBR.mat
       - Materials/TESTTTT.mat
       - Materials/pbr 2.ss_graph
@@ -116,6 +113,8 @@ CollapsedEntities:
       - Normal.png
       - Render Target.renderTarget
       - Scene.scene
+      - Scripts
+      - Scripts/LanternYAxisRotation.ts
       - Scripts/StencilMask.ts
       - Spectacles3DHandHints.lspkg
       - Spectacles3DHandHints.lspkg/Animation
@@ -600,6 +599,7 @@ CollapsedEntities:
       - SpectaclesInteractionKit.lspkg/package.native
       - SpectaclesInteractionKit.lspkg/tsconfig.json
       - SpectaclesInteractionKitExamples.lspkg
+      - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop
       - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials
       - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Icons
       - SpectaclesInteractionKitExamples.lspkg/Examples/RocketWorkshop/Materials/Objects
@@ -867,5 +867,4 @@ CollapsedEntities:
       - SurfacePlacement.lspkg/Textures/red_panda_param.png
       - SurfacePlacement.lspkg/package.native
       - SurfacePlacement.lspkg/package_dependencies.json
-      - Untitled TypeScript.ts
   options: 4

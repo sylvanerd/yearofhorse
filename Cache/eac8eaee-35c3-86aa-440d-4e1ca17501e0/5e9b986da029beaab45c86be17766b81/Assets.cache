@@ -488,7 +488,7 @@
             mValues:
               []
         ShaderType: Mesh3d
-      ShaderPath: eac8eaee-35c3-86aa-440d-4e1ca17501e0/5e9b986da029beaab45c86be17766b81/Data/f4b9ba7/RoundedRectangleStrokeShader.glsl
+      ShaderPath: eac8eaee-35c3-86aa-440d-4e1ca17501e0/5e9b986da029beaab45c86be17766b81/Data/015ad32/RoundedRectangleStrokeShader.glsl
       Defines:
         []
       Properties:

@@ -95,7 +95,7 @@
             mValues:
               []
         ShaderType: Mesh3d
-      ShaderPath: 1f342ec2-6f30-1298-94f3-fa8127447edc/aebc962739c2359bc83e1385aefc450e/Data/f4b9ba7/HandOccluder.glsl
+      ShaderPath: 1f342ec2-6f30-1298-94f3-fa8127447edc/aebc962739c2359bc83e1385aefc450e/Data/015ad32/HandOccluder.glsl
       Defines:
         []
       Properties:
